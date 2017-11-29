@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.clear:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.outline {
+  width: 1598px;
+  height: 2112px;
+  background-color: #f3e5e5;
+  border-color: black;
+  border-width: 10px;
+}
+
+.navi {
+  width: 1598px;
+  height: 249px;
+  background-color: #ffffff;
+}
+
+.E {
+  margin: 0 0 0 121px;
+}
+.K {
+  float: right;
+  margin: 106px 128px 0 20px;
+}
+.J {
+  float: right;
+  margin: 142px 0 0 21px;
+}
+.I {
+  float: right;
+  margin: 142px 0 0 21px;
+}
+.H {
+  float: right;
+  margin: 142px 0 0 21px;
+}
+.G {
+  float: right;
+  margin: 142px 0 0 21px;
+}
+.F {
+  float: right;
+  margin: 140px 0 0 121px;
+}
+
+
+
+.mainpic img {
+  width: 1349px;
+  height: 668px;
+  margin-left: 128px;
+  margin-top: 66px;
+}
+
+.fstblock {
+  width: 1598px;
+  margin-top: 105px;
+}
+
+span {
+  color: #FFF;
+  font-size: 50px;
+  float: right;
+  margin: 7px 30px 0 0;
+}
+
+.A {
+  width: 527px;
+  height: 372px;
+  margin-left: 205px;
+  background-image: url("img/leftop.jpg");
+  float: left;
+}
+
+
+.B {
+  width: 527px;
+  height: 372px;
+  margin-left: 120px;
+  background-image: url("img/righttop.jpg");
+  float: left;
+}
+
+
+
+.C {
+  width: 527px;
+  height: 355px;
+  margin: 67px 0 0 205px ;
+  background-image: url("img/leftbot.jpg");
+  float: left;
+}
+
+.D {
+  width: 527px;
+  height: 355px;
+  margin: 67px 0 0 120px;
+  background-image: url("img/rightbot.jpg");
+  float: left;
+}
+
+
+.last {
+  font-family: 'Permanent Marker', cursive;
+  margin-top: 128px;
+  height: 22px;
+  font-size: 24px;
+  text-align: center;
+  color: #000000;
+}
